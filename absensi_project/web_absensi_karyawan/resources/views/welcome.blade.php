@@ -103,7 +103,7 @@
             {{-- Footer --}}
             <footer class="mt-24 text-center text-sm text-gray-500">
                 <p>Dibuat dengan <span class="text-pink-500">❤️</span> oleh 
-                    <a href="https://github.com/Alghifari888" target="_blank" class="text-indigo-600 font-semibold hover:underline">Alghifari888</a>
+                    <a href="https://github.com/ditftyyy/sistem_absensi.git" target="_blank" class="text-indigo-600 font-semibold hover:underline">Adit</a>
                 </p>
                 <p class="mt-1">Powered by Laravel 12, Tailwind.</p>
             </footer>
